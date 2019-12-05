@@ -7,12 +7,14 @@ Full documentation for the API can be found [here](https://online.wonderware.com
 
 ## Getting Started
 ### Installation
-1.  Fork/Clone/Download this repo in the appropriate directory:
+1.  Fork/Clone/Download this repo:
 
-`git https://github.com/cambrian-innovation/wonderware-API-python.git`
+`https://github.com/dpkilcoyne/wonderware-API-python.git`
+
 2.  Navigate to the directory:
 
 `cd wonderware-API-python`
+
 3. Install the dependencies:
 
 `pip install -r requirements.txt`
